@@ -1,5 +1,7 @@
 JavaScript port of [HtmlDiff.NET](https://github.com/Rohland/htmldiff.net) which is itself a C# port of the Ruby implementation, [HtmlDiff](https://github.com/myobie/htmldiff/).
 
+(IE11 compatible fork)
+
 Project Description
 -------------------
 
